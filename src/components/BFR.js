@@ -46,7 +46,7 @@ export default class BFR extends Component{
                 <video autoPlay loop muted style={styles.video}>
                     <source src={video} type="video/mp4" />
                 </video>
-            <div className='intro'><p>This is an introduction to the amazing BFR. I haven't decided what I'm going to write here yet, so I'm just going to keep talking. But this rocket is amazing, and I'm in love with it. Someday I will ride this rocket. I'm resisting so many crude jokes here right now.
+            <div className='intro'><p>This is an introduction to the amazing BFR. I haven't decided what I'm going to write here yet, so I'm just going to keep talking. But this rocket is amazing, and I'm in love with it. But how about some Bob Ross Ipsum to fill up the space. 
             What the devil. There's not a thing in the world wrong with washing your brush. I guess that would be considered a UFO. A big cotton ball in the sky. Do an almighty painting with us. It's cold, but it's beautiful. The only prerequisite is that it makes you happy. If it makes you happy then it's good.
 
             Let's build some happy little clouds up here. This is a happy place, little squirrels live here and play. That is when you can experience true joy, when you have no fear. The least little bit can do so much.
